@@ -1,0 +1,32 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": {
+			"appIDs": [
+				"QAM7ZQXMWF.tv.uscreen.lvl"
+			],
+			"paths": [
+				"*"
+			],
+			"components": [
+				{
+					"/": "*"
+				},
+				{
+					"/": "/*"
+				},
+				{
+					"/": "on-demand"
+				},
+				{
+					"/": "/on-demand"
+				}
+			]
+		},
+		"webcredentials": {
+			"apps": [
+				"QAM7ZQXMWF.tv.uscreen.lvl"
+			]
+		}
+	}
+}
